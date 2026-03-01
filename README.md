@@ -11,7 +11,7 @@ Currently diving deep into <strong>Node.js, React.js, and full-stack development
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" width="420"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Woman developer gif" width="420"/>
 </p>
 
 <h3 align="center">🛠 Languages and Tools</h3>
