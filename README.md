@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejaswini</h1>
-<h3 align="center">Ex-Intern @ Tosquill Pvt Ltd · “Crafting Code, Building Dreams”</h3>
+<h3 align="center">Ex-Intern @ Topsqill Pvt Ltd · “Crafting Code, Building Dreams”</h3>
 
 <p>
 I'm a passionate developer weaving creativity into code, with a love for building intuitive and impactful web applications.
